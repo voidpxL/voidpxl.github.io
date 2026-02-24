@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: "项目经历"
-    url: "/#-portfolios"
+    url: "/#portfolios"
 
   - title: "成果"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "奖项"
-    url: "/#-awards"
+    url: "/#awards"
 
   - title: "其他"
-    url: "/#-others"
+    url: "/#others"
