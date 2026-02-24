@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "关于我"
+    url: "/#about-me"
+
+  - title: "项目经历"
+    url: "/#-portfolios"
+
+  - title: "成果"
+    url: "/#-publications"
+
+  - title: "奖项"
+    url: "/#-awards"
+
+  - title: "其他"
+    url: "/#-others"
