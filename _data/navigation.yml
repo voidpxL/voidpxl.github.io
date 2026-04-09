@@ -14,3 +14,6 @@ main:
 
   - title: "其他"
     url: "/#others"
+
+  - title: "博客"
+    url: "https://voidpxl.github.io/blog/"
