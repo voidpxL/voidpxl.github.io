@@ -1,5 +1,5 @@
 
-# 📖 成果 
+# 📖 学术成果 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS</div><img src='images/projects/RETA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -27,5 +27,3 @@ IEEE Internet of Things Journal
 </div>
 
 - [Pedestrian Detection and Trajectory-Tracking based FMCW radar For Autonomous Driving](https://ieeexplore.ieee.org/document/10401665), 2023 38th Youth Academic Annual Conference of Chinese Association of Automation (YAC), Oral, Best Student Paper Award-Finalist.
-
-- 16 篇发明专利 （四篇第一发明人）

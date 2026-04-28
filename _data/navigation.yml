@@ -12,8 +12,8 @@ main:
   - title: "奖项"
     url: "/#awards"
 
-  - title: "其他"
-    url: "/#others"
+  - title: "开源项目"
+    url: "/#open-sources"
 
   - title: "博客"
     url: "https://voidpxl.github.io/blog/"
